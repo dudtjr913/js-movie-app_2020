@@ -20,7 +20,7 @@ function Movie({ id, title, summary, poster, year, genres }) {
             </li>
           ))}
         </ul>
-        <h5>{summary.slice(0, 250)}...</h5>
+        <h5>{summary.slice(0, 260)}...</h5>
       </div>
     </div>
   );

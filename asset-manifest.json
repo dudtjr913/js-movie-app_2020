@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/js-movie-app_2020/static/css/main.95f7c292.chunk.css",
-    "main.js": "/js-movie-app_2020/static/js/main.f65dd1e4.chunk.js",
-    "main.js.map": "/js-movie-app_2020/static/js/main.f65dd1e4.chunk.js.map",
-    "runtime-main.js": "/js-movie-app_2020/static/js/runtime-main.b9abab8e.js",
-    "runtime-main.js.map": "/js-movie-app_2020/static/js/runtime-main.b9abab8e.js.map",
-    "static/js/2.d5085bd2.chunk.js": "/js-movie-app_2020/static/js/2.d5085bd2.chunk.js",
-    "static/js/2.d5085bd2.chunk.js.map": "/js-movie-app_2020/static/js/2.d5085bd2.chunk.js.map",
-    "index.html": "/js-movie-app_2020/index.html",
-    "precache-manifest.7871859fbf9aa675005b95e63a38c201.js": "/js-movie-app_2020/precache-manifest.7871859fbf9aa675005b95e63a38c201.js",
-    "service-worker.js": "/js-movie-app_2020/service-worker.js",
-    "static/css/main.95f7c292.chunk.css.map": "/js-movie-app_2020/static/css/main.95f7c292.chunk.css.map",
-    "static/js/2.d5085bd2.chunk.js.LICENSE.txt": "/js-movie-app_2020/static/js/2.d5085bd2.chunk.js.LICENSE.txt"
+    "main.css": "/rcws-development/js-movie-app_2020//inside/the/app/static/css/main.95f7c292.chunk.css",
+    "main.js": "/rcws-development/js-movie-app_2020//inside/the/app/static/js/main.f65dd1e4.chunk.js",
+    "main.js.map": "/rcws-development/js-movie-app_2020//inside/the/app/static/js/main.f65dd1e4.chunk.js.map",
+    "runtime-main.js": "/rcws-development/js-movie-app_2020//inside/the/app/static/js/runtime-main.00fd6b84.js",
+    "runtime-main.js.map": "/rcws-development/js-movie-app_2020//inside/the/app/static/js/runtime-main.00fd6b84.js.map",
+    "static/js/2.d5085bd2.chunk.js": "/rcws-development/js-movie-app_2020//inside/the/app/static/js/2.d5085bd2.chunk.js",
+    "static/js/2.d5085bd2.chunk.js.map": "/rcws-development/js-movie-app_2020//inside/the/app/static/js/2.d5085bd2.chunk.js.map",
+    "index.html": "/rcws-development/js-movie-app_2020//inside/the/app/index.html",
+    "precache-manifest.5d07cee3bf06a8cca06472bd6cac4728.js": "/rcws-development/js-movie-app_2020//inside/the/app/precache-manifest.5d07cee3bf06a8cca06472bd6cac4728.js",
+    "service-worker.js": "/rcws-development/js-movie-app_2020//inside/the/app/service-worker.js",
+    "static/css/main.95f7c292.chunk.css.map": "/rcws-development/js-movie-app_2020//inside/the/app/static/css/main.95f7c292.chunk.css.map",
+    "static/js/2.d5085bd2.chunk.js.LICENSE.txt": "/rcws-development/js-movie-app_2020//inside/the/app/static/js/2.d5085bd2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9abab8e.js",
+    "static/js/runtime-main.00fd6b84.js",
     "static/js/2.d5085bd2.chunk.js",
     "static/css/main.95f7c292.chunk.css",
     "static/js/main.f65dd1e4.chunk.js"
